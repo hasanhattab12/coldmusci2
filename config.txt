@@ -1,6 +1,6 @@
-token=NTI5NDAwMzg5ODMzODUwODgy.Dwzpyw.EIoU4IROpo_vWG-FnPNepSrgiPs
-owner=522764310313697282
-prefix=5 
-game=,Outside 
+token=NTI5NDAwMzg5ODMzODUwODgy.D1llRw.kMpbd0BLtT2_MZqODfAHZp5ZrIE
+owner=507997411101114379
+prefix=2 
+game=Cold | 2play
 stayinchannel=true
 songinstatus=false
